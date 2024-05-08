@@ -1,0 +1,13 @@
+folium
+pandas
+matplotlib
+seaborn
+prettytable
+torch
+sentence_transformers
+streamlit
+streamlit-aggrid
+streamlit-folium
+plotly
+spacy
+wordcloud
